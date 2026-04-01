@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <a href="https://telegram.com/nxyflux"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://telegram.me/nxyflux"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:serjanbey@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
